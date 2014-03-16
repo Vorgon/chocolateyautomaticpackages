@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>nfopad</id>
+    <title>NFOPad</title>
+    <version>1.6.8.1</version>
+    <authors>Lennart Gustafsson</authors>
+    <owners>Lennart Gustafsson</owners>
+    <description>NFOPad is a small, fast and flexible combined nfo viewer and text editor. It is a clone of Microsoft's Notepad but much more customizable and with some additional features. Of course NFOPad also supports nfo files with ASCII art. The file extension is used to determine whether to use an ANSI or ASCII font. NFOPad also fully supports Unicode.</description>
+    <projectUrl>http://truehumandesign.se/s_nfopad.php</projectUrl>
+    <tags>nfopad,nfo,pad</tags>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://abload.de/img/27608989rj0h.png</iconUrl>
+	<releaseNotes>- Added Uninstaller</releaseNotes>
+  </metadata>
+</package>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>nvu</id>
+    <title>Nvu</title>
+    <version>1.0.0.1</version>
+    <authors>Lennart Gustafsson</authors>
+    <owners>Lennart Gustafsson</owners>
+    <description>Nvu (pronounced N-view, for a "new view") is a complete Web Authoring System that combines web file management and easy-to-use WYSIWYG (What You See Is What You Get) web page editing. Nvu is designed to be extremely easy to use, making it ideal for non-technical computer users who want to create an attractive, professional-looking web site without needing to know HTML or web coding.</description>
+    <projectUrl>http://net2.com/nvu/index.html</projectUrl>
+    <tags>nvu,web,authoring,software,system,frontpage,dreamweaver</tags>
+    <copyright>MPL 1.1/GPL 2.0/LGPL 2.1</copyright>
+    <licenseUrl>http://www.mozilla.org/MPL/2.0/</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>http://abload.de/img/nvu_icon1284nu96.png</iconUrl>
+  </metadata>
+</package>
